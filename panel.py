@@ -3,7 +3,7 @@ import datetime
 
 st.set_page_config(page_title="Panel de Edwin", page_icon="🛡️")
 
-st.title("🛡️ Panel de Control de Edwin")
+st.title("🛡️ Panel de Control de Ariar steel")
 st.markdown("---")
 
 # Menú lateral
